@@ -196,22 +196,8 @@ SOFTWARE.
 
 **Siddharth Prabhakr**
 
-- **Email**: siddharth.prabhakr@gmail.com
+- **Email**: siddharthprabhakr.yt@gmail.com
 - **GitHub**: [@siddharthprabhakr](https://github.com/siddharthprabhakr)
 - **LinkedIn**: [Siddharth Prabhakr](https://linkedin.com/in/siddharthprabhakr)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-For support, email [your-email@example.com] or create an issue in the repository.
-
----
-
-**FinanceHub** - Empowering modern banking experiences with cutting-edge technology and intuitive design.
