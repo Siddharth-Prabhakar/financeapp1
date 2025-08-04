@@ -197,7 +197,5 @@ SOFTWARE.
 **Siddharth Prabhakr**
 
 - **Email**: siddharthprabhakr.yt@gmail.com
-- **GitHub**: [@siddharthprabhakr](https://github.com/siddharthprabhakr)
-- **LinkedIn**: [Siddharth Prabhakr](https://linkedin.com/in/siddharthprabhakr)
 
 
